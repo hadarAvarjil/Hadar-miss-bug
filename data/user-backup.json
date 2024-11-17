@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "u101",
+      "username": "puki",
+      "fullname": "Puki Ja",
+      "password": "puki",
+      "isAdmin": true
+    },
+    {
+      "_id": "u102",
+      "username": "kuki",
+      "fullname": "kuki ka",
+      "password": "kuki"
+    },
+    {
+      "_id": "u103",
+      "username": "buki",
+      "fullname": "buki ba",
+      "password": "buki"
+    },
+    {
+      "_id": "u103",
+      "username": "tuki",
+      "fullname": "tuki ta",
+      "password": "tuki"
+    }
+  ]

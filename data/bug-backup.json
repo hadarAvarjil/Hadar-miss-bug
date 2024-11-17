@@ -1,0 +1,188 @@
+[
+  {
+      "_id": "s6Q1P",
+      "createdAt": 1731344045262,
+      "updatedAt": 1731344045262,
+      "title": "454",
+      "description": "hhg hg",
+      "labels": [],
+      "severity": 999,
+      "creator": {
+          "_id": "u101",
+          "fullname": "Puki Ja"
+      }
+  },
+  {
+      "_id": "bug009",
+      "title": "Profile update not saved",
+      "description": "Changes in user profile are not saved",
+      "severity": 2,
+      "createdAt": 1624456723987,
+      "labels": [
+          "critical",
+          "backend",
+          "profile"
+      ],
+      "creator": {
+          "_id": "u102",
+          "fullname": "kuki ka"
+      }
+  },
+  {
+      "_id": "bug006",
+      "title": "Search results delay",
+      "description": "Takes too long to fetch search results",
+      "severity": 2,
+      "createdAt": 1597145231456,
+      "labels": [
+          "performance",
+          "frontend",
+          "search"
+      ],
+      "creator": {
+          "_id": "u101",
+          "fullname": "Puki Ja"
+      }
+  },
+  {
+      "_id": "bug002",
+      "title": "UI freezes on login",
+      "description": "Login button unresponsive after clicking",
+      "severity": 2,
+      "createdAt": 1605121210345,
+      "labels": [
+          "urgent",
+          "frontend",
+          "login"
+      ],
+      "creator": {
+          "_id": "u102",
+          "fullname": "kuki ka"
+      }
+  },
+  {
+      "_id": "bug008",
+      "title": "404 error on dashboard load",
+      "description": "Dashboard occasionally fails to load",
+      "severity": 3,
+      "createdAt": 1609876543123,
+      "labels": [
+          "critical",
+          "frontend",
+          "dashboard"
+      ],
+      "creator": {
+          "_id": "u103",
+          "fullname": "buki ba"
+      }
+  },
+  {
+      "_id": "bug004",
+      "title": "Broken image links",
+      "description": "Images do not load on the product page",
+      "severity": 3,
+      "createdAt": 1634562135487,
+      "labels": [
+          "medium",
+          "frontend",
+          "assets"
+      ],
+      "creator": {
+          "_id": "u103",
+          "fullname": "buki ba"
+      }
+  },
+  {
+      "_id": "bug001",
+      "title": "Cannot save a Car",
+      "description": "Problem when clicking Save button",
+      "severity": 3,
+      "createdAt": 1542107359454,
+      "labels": [
+          "critical",
+          "need-CR",
+          "dev-branch"
+      ],
+      "creator": {
+          "_id": "u103",
+          "fullname": "buki ba"
+      }
+  },
+  {
+      "_id": "bug003",
+      "title": "Data mismatch in reports",
+      "description": "Reports display incorrect data from database",
+      "severity": 4,
+      "createdAt": 1617239832654,
+      "labels": [
+          "backend",
+          "data-integrity",
+          "reports"
+      ],
+      "creator": {
+          "_id": "u101",
+          "fullname": "Puki Ja"
+      }
+  },
+  {
+      "_id": "bug007",
+      "title": "Settings page crashes",
+      "description": "Crash occurs when accessing settings",
+      "severity": 4,
+      "createdAt": 1611321349875,
+      "labels": [
+          "high-priority",
+          "settings",
+          "backend"
+      ],
+      "creator": {
+          "_id": "u104",
+          "fullname": "tuki ta"
+      }
+  },
+  {
+      "_id": "bug005",
+      "title": "Email notifications not sent",
+      "description": "Users are not receiving email notifications",
+      "severity": 5,
+      "createdAt": 1620132311234,
+      "labels": [
+          "high-priority",
+          "backend",
+          "email"
+      ],
+      "creator": {
+          "_id": "u104",
+          "fullname": "tuki ta"
+      }
+  },
+  {
+      "_id": "bug010",
+      "title": "Incorrect password validation",
+      "description": "Password validation allows weak passwords",
+      "severity": 5,
+      "createdAt": 1587420039123,
+      "labels": [
+          "security",
+          "backend",
+          "authentication"
+      ],
+      "creator": {
+          "_id": "u101",
+          "fullname": "Puki Ja"
+      }
+  },
+  {
+      "_id": "AlbJf",
+      "createdAt": 1731148547732,
+      "updatedAt": 1731148547732,
+      "title": "sfsdf",
+      "description": "sdfds",
+      "labels": [],
+      "severity": 5,
+      "creator": {
+          "_id": "u101",
+          "fullname": "Puki Ja"
+      }
+  }
+]
